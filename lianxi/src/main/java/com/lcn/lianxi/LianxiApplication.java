@@ -8,5 +8,6 @@ public class LianxiApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(LianxiApplication.class, args);
+		
 	}
 }
